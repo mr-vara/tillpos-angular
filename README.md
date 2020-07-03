@@ -19,6 +19,5 @@ $ npm install
 ```#!/bin/sh
 
 $ ng serve
-
-# Navigate to http://localhost:4200/
 ```
+Navigate to http://localhost:4200/.
